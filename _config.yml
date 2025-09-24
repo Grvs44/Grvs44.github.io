@@ -1,5 +1,6 @@
-author:
-  name: Elli Greaves
+site:
+  author:
+    name: Elli Greaves
 theme: minima
 minima:
   skin: auto
