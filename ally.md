@@ -1,4 +1,6 @@
-# Elli's Trans+ Ally Guide
+---
+title: Elli's Trans+ Ally Guide
+---
 
 Below are some ideas for if you'd like to reinforce your allyship to trans+ people!
 If you know any trans+ people, also check in with them to listen to their ideas - these are just a starting point!

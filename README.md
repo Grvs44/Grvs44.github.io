@@ -1,4 +1,6 @@
-# Elli Greaves
+---
+title: Elli Greaves
+---
 
 Welcome to my GitHub page!
 Below are some links to some things you can find here.
