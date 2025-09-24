@@ -1,3 +1,9 @@
+author:
+  name: Elli Greaves
 theme: minima
 minima:
   skin: auto
+  social_links:
+    - title: GitHub
+      icon: github
+      url: "https://github.com/Grvs44"
